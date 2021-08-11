@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>3218364849</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\system_ARMCM4.o</file>
+            <file>$PROJ_DIR$\src\asm_code.s</file>
+            <file>$PROJ_DIR$\src\system_ARMCM4.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\c_code.o</file>
+            <file>$PROJ_DIR$\src\startup_ARMCM4.s</file>
+            <file>$PROJ_DIR$\src\c_code.c</file>
+            <file>$PROJ_DIR$\..\simple_io_main_sp\src\simple_io_main_sp.c</file>
+            <file>$PROJ_DIR$\..\Laboratorio_01\main.c</file>
+            <file>$PROJ_DIR$\..\Laboratorio_01\Laboratorio_01.ewd</file>
+            <file>$PROJ_DIR$\..\Laboratorio_01\Laboratorio_01.ewp</file>
+            <file>$PROJ_DIR$\..\Laboratorio_01\Laboratorio_01.ewt</file>
+            <file>$PROJ_DIR$\..\Laboratorio_01\Laboratorio_01.dep</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\src\system_ARMCM4.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 0</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\c_code.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>

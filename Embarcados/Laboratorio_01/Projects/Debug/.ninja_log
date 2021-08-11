@@ -1,0 +1,5 @@
+# ninja log v5
+6	52	6504218274409140	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/Debug/Obj/startup_TM4C1294.o	a4e6a9ad47c60d59
+1	259	6504218276443689	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/Debug/Obj/main.o	398fa8b67c159771
+54	312	6504218276972272	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/Debug/Obj/system_TM4C1294_TW.o	66a909e4b2844a10
+321	410	6504218277982697	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/Debug/Exe/Laboratorio_01.out	d0a7c3d75bf465ba

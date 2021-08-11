@@ -1,0 +1,51 @@
+##IAR Ninja build file
+
+
+#Rules
+rule COMPILER_XCL
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\XclFileGenerator.exe $xclcommand -f "$rspfile_name"
+  description = IAR_NEW_TOOL+++COMPILER_XCL+++$in+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\XclFileGenerator.exe" $flags
+  rspfile = $rspfile_name
+  rspfile_content = $flags
+
+rule INDEXER
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\SourceIndexer.exe $flags
+  depfile = $out.dep
+  description = IAR_NEW_TOOL+++INDEXER+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\SourceIndexer.exe" $flags
+
+rule MAKEBROWSE
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\makeBrowseData.exe $flags
+  description = IAR_NEW_TOOL+++MAKEBROWSE+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\makeBrowseData.exe" $flags
+
+rule PDBLINK
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\PbdLink.exe $flags
+  description = IAR_NEW_TOOL+++PDBLINK+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\common\bin\PbdLink.exe" $flags
+
+
+
+#Build steps
+build C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.xcl : COMPILER_XCL 
+  xclcommand = -source_file C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\src\c_code.c -xcl_file C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.xcl -macro_file C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.tmp -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\bin\iccarm.exe"
+  flags = C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\src\c_code.c -o C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=None --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\inc\c\DLib_Config_Normal.h" -I C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\..\..\TivaWare_C_Series-2.1.4.178\ -Ol -I "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\CMSIS\Core\Include\\" -I "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\CMSIS\DSP\Include\\" --predef_macros C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.tmp
+  rspfile_name = C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.xcl.rsp
+
+build C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.xcl : COMPILER_XCL 
+  xclcommand = -source_file C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\src\system_ARMCM4.c -xcl_file C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.xcl -macro_file C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.tmp -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\bin\iccarm.exe"
+  flags = C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\src\system_ARMCM4.c -o C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=None --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\inc\c\DLib_Config_Normal.h" -I C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\..\..\TivaWare_C_Series-2.1.4.178\ -Ol -I "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\CMSIS\Core\Include\\" -I "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0_2\arm\CMSIS\DSP\Include\\" --predef_macros C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.tmp
+  rspfile_name = C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.xcl.rsp
+
+build C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.pbi : INDEXER C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.xcl |  $
+C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\src\c_code.c
+  flags = -out=C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.pbi -f C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.xcl
+
+build C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.pbi : INDEXER C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.xcl |  $
+C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\src\system_ARMCM4.c
+  flags = -out=C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.pbi -f C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.xcl
+
+build C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_asm.pbw : MAKEBROWSE C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_asm.pbd
+  flags = C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_asm.pbd -output C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_asm.pbw
+
+build C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_asm.pbd : PDBLINK C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.pbi |  $
+C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.pbi
+  flags = -M C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_asm.pbd C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\c_code.pbi C$:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\c_asm\Debug\BrowseInfo\system_ARMCM4.pbi
+
