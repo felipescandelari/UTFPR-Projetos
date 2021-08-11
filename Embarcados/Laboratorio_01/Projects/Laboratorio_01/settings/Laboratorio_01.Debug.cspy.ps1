@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.general.xcl" --backend -f "C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.general.xcl" --backend -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\Laboratorio_01\settings\Laboratorio_01.Debug.driver.xcl" 
 }
