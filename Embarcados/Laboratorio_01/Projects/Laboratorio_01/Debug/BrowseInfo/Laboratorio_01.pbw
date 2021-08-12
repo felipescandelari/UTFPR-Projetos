@@ -12465,13 +12465,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@246@macro@f_24MHZ",
+    "ID": "c:main.c@291@macro@f_24MHZ",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "f_24MHZ",
     "location": {
       "column": "9",
-      "line": "12",
+      "line": "15",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\Laboratorio_01\\src\\main.c"
     },
     "name": "f_24MHZ",
@@ -12479,13 +12479,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@272@macro@f_120MHZ",
+    "ID": "c:main.c@317@macro@f_120MHZ",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "f_120MHZ",
     "location": {
       "column": "9",
-      "line": "13",
+      "line": "16",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\Laboratorio_01\\src\\main.c"
     },
     "name": "f_120MHZ",
@@ -12499,7 +12499,7 @@
     "display": "LED_D4",
     "location": {
       "column": "9",
-      "line": "14",
+      "line": "17",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\Laboratorio_01\\src\\main.c"
     },
     "name": "LED_D4",
@@ -12513,7 +12513,7 @@
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "16",
+      "line": "19",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\Laboratorio_01\\src\\main.c"
     },
     "name": "main",
@@ -12521,13 +12521,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@333@F@main@clock",
+    "ID": "c:main.c@378@F@main@clock",
     "What": "Variable",
     "defdec": "Def",
     "display": "clock",
     "location": {
       "column": "12",
-      "line": "18",
+      "line": "21",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\Laboratorio_01\\src\\main.c"
     },
     "name": "clock",

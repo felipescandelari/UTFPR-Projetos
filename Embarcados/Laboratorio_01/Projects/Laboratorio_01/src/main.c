@@ -1,6 +1,9 @@
 // Felipe Scandelari
 // 1760262
 
+// Laboratorio_01
+// Sistemas Embarcados
+
 #include <stdint.h>
 #include <stdbool.h>
 // includes da biblioteca driverlib
@@ -28,8 +31,8 @@ void main()
 
   while (1)
   {
-    // Laço de atraso feito com for
-    // for (int i = 0; i < 3000000; i++)      
+    // Laço de atraso feito com o for a seguir
+    // for (int i = 0; i < 120000000; i++)      
     // {
     // }
     
