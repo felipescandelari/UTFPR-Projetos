@@ -1,0 +1,11 @@
+# ninja log v5
+219	418	6456568286155737	C:/Users/hviei/Documents/GitHub/TM4C1294_Bare_IAR9/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	de3dfcb1957b4b8a
+1	470	6456568286654141	C:/Users/hviei/Documents/GitHub/TM4C1294_Bare_IAR9/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	ba3c9e536e789e44
+289	528	6456568287332589	C:/Users/hviei/Documents/GitHub/TM4C1294_Bare_IAR9/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	7a986b2f136557f5
+536	1552	6456568296857117	C:/Users/hviei/Documents/GitHub/TM4C1294_Bare_IAR9/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	5fd41ba15d540e66
+0	186	6504179245674930	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	812c525dd2012918
+1	150	6504180780471833	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	812c525dd2012918
+1	242	6504205946861162	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	9ba32b95640403e5
+219	427	6504205948586551	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	812c525dd2012918
+245	473	6504205949080322	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c290d7cfe2f8e67b
+483	768	6504205952052719	C:/Users/felipe/Desktop/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	39020a5a4110995c
