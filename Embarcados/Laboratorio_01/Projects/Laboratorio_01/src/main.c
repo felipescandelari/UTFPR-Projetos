@@ -2,7 +2,7 @@
 // 1760262
 
 // Laboratorio_01
-// Sistemas Embarcados
+// Sistemas Embarcados - UTFPR
 
 #include <stdint.h>
 #include <stdbool.h>
