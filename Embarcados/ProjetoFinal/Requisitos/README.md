@@ -26,14 +26,14 @@ O projeto final escolhido foi o de controle de um sistema de elevadores.
 - [x] Fora do elevador, o sistema deverá iluminar o botão (o de subir ou o de descer) no painel externo conforme o que for escolhido pelo usuário;
 - [x] Fora do elevador, após o elevador ter partido daquele andar, o sistema deverá apagar o botão que estava aceso anteriormente.
 - [x] O elevador deverá ficar parado no andar que visitou por último, até que outro usuário o chame;
-- [x] O sistema deverá priorizar os usuários que desejam descer, a não ser que o elevador já esteja subindo;
+- [x] O sistema deverá priorizar os usuários que desejam descer, a não ser que o elevador já esteja subindo.
 
 
 ### Requisitos Não-funcionais
 
 - [x] Deverá ser escrito um programa concorrente em linguagem C (ou C + Assembly) utilizando o RTOS RTX5 para o kit EK-TM4C1294XL;
-- [x] O ambiente de desenvolvimento do sistema deverá ser o IAR EWARM versão 9.10.2
-- [x] O programa concorrente deverá ser implementado com pelo menos três tarefas.
+- [x] O ambiente de desenvolvimento do sistema deverá ser o IAR EWARM versão 9.10.2;
+- [x] O programa concorrente deverá ser implementado com pelo menos três tarefas;
 - [x] A comunicação serial (UART) deverá ser implementada por interrupção, tanto na recepção quanto na transmissão de caracteres;
 - [x] A parte mecânica de cada sistema deverá ser simulada utilizando um dos simuladores desenvolvidos no projeto SimSE2;
 - [x] A interligação física entre o simulador (software rodando no PC) e o kit de desenvolvimento se dará via porta serial (COM virtual sobre USB);
