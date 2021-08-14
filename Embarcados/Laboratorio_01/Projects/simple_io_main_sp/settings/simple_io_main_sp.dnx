@@ -13,7 +13,7 @@
         <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\arm\CONFIG\debugger\TexasInstruments\TM4C1294NCPDT.ddf</MemConfigValue>
     </PlDriver>
     <DebugChecksum>
-        <Checksum>1035538188</Checksum>
+        <Checksum>1410069526</Checksum>
     </DebugChecksum>
     <Exceptions>
         <StopOnUncaught>_ 0</StopOnUncaught>
@@ -47,6 +47,13 @@
         <Enabled>0</Enabled>
         <ShowSource>0</ShowSource>
     </Trace2>
+    <DisassembleMode>
+        <mode>0</mode>
+    </DisassembleMode>
+    <Breakpoints2>
+        <Bp0>_ 1 "EMUL_CODE" "0x988" 0 0 1 "" 0 "" 0</Bp0>
+        <Count>1</Count>
+    </Breakpoints2>
     <TermIOLog>
         <LoggingEnabled>_ 0</LoggingEnabled>
         <LogFile>_ ""</LogFile>
@@ -56,21 +63,15 @@
         <LogFile>_ ""</LogFile>
         <Category>_ 0</Category>
     </LogFile>
+    <Aliases>
+        <A0>_ "C:\Jenkins\workspace\TivaWare-Git-Release\DriverLib\build\DriverLib.test\driverlib\gpio.c" ""</A0>
+        <Count>1</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
     <CallStackLog>
         <Enabled>0</Enabled>
     </CallStackLog>
     <CallStackStripe>
         <ShowTiming>1</ShowTiming>
     </CallStackStripe>
-    <DisassembleMode>
-        <mode>0</mode>
-    </DisassembleMode>
-    <Breakpoints2>
-        <Count>0</Count>
-    </Breakpoints2>
-    <Aliases>
-        <A0>_ "C:\Jenkins\workspace\TivaWare-Git-Release\DriverLib\build\DriverLib.test\driverlib\gpio.c" ""</A0>
-        <Count>1</Count>
-        <SuppressDialog>0</SuppressDialog>
-    </Aliases>
 </settings>

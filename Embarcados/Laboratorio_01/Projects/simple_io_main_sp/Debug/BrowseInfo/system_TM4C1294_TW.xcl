@@ -1,17 +1,17 @@
-"C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\simple_io_main_sp\src\system_TM4C1294_TW.c"
+"C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\simple_io_main_sp\src\system_TM4C1294_TW.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\simple_io_main_sp\Debug\BrowseInfo\system_TM4C1294_TW.pbi.dep
+C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\simple_io_main_sp\Debug\BrowseInfo\system_TM4C1294_TW.pbi.dep
 -o
-C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\simple_io_main_sp\Debug\BrowseInfo\system_TM4C1294_TW.pbi
+C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\simple_io_main_sp\Debug\BrowseInfo\system_TM4C1294_TW.pbi
 -I
-C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\simple_io_main_sp\src
+C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\simple_io_main_sp\src
 -I
-C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\Projects\simple_io_main_sp\..\..\TivaWare_C_Series-2.1.4.178
+C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\Projects\simple_io_main_sp\..\..\TivaWare_C_Series-2.1.4.178
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\arm\CMSIS\Core\Include\
 -I
@@ -23,7 +23,7 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\arm\inc\c
 -I
-C:\Users\felipe\Desktop\TM4C1294_Bare_IAR9-main\TivaWare_C_Series-2.1.4.178
+C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\Embarcados\Laboratorio_01\TivaWare_C_Series-2.1.4.178
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\arm\CMSIS\Core\Include
 -I

@@ -14,7 +14,17 @@ void SysTick_Handler(void){
 } // SysTick_Handler
 
 void main(void){
-  SysTickPeriodSet(120000); // f = 1Hz para clock = 24MHz //12000000
+  
+  
+  // Foram declaradas variáveis do tipo float
+  // e feitas operações com elas dentro da função main,
+  // para garantir que a FPU fosse utilizada para efetuá-las.
+    
+  float a = 1.50;
+  float b = 5.50;
+  b = b + a*10 + b*10;
+  
+  SysTickPeriodSet(24000000); // f = 1Hz para clock = 24MHz 
   
   SysCtlPeripheralEnable(SYSCTL_PERIPH_GPION); // Habilita GPIO N (LED D1 = PN1, LED D2 = PN0)
   while(!SysCtlPeripheralReady(SYSCTL_PERIPH_GPION)); // Aguarda final da habilitação

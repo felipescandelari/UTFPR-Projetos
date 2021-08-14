@@ -12465,7 +12465,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@291@macro@f_24MHZ",
+    "ID": "c:main.c@299@macro@f_24MHZ",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "f_24MHZ",
@@ -12479,7 +12479,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@317@macro@f_120MHZ",
+    "ID": "c:main.c@325@macro@f_120MHZ",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "f_120MHZ",
@@ -12521,7 +12521,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@378@F@main@clock",
+    "ID": "c:main.c@386@F@main@clock",
     "What": "Variable",
     "defdec": "Def",
     "display": "clock",
