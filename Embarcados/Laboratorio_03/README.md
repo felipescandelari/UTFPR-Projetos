@@ -28,7 +28,7 @@ Foi considerada apenas a situação de operação em que os registradores especi
 
 Conforme solicitado, foi esboçado um diagrama de estados que descreve o comportamento dinâmico do projeto “fsm_states”.
 
-![Getting Started](./mef/LAB3_EX2.PNG)
+![Getting Started](./mef/LAB3_EX2.png)
 
 
 ## Exercício 3 (Seleção por Estado)
@@ -40,7 +40,7 @@ Conforme solicitado, o projeto “fsm_event” foi alterado de forma a apresenta
 
 Para este último exercício, foi feito um diagrama de estados que utiliza o conceito de hierarquia para descrever o comportamento dinâmico do projeto “fsm_matrix”, conforme a figura a seguir:
 
-![Getting Started](./mef/LAB3_EX4.PNG)
+![Getting Started](./mef/LAB3_EX4.png)
 
 ## Site utilizado para realização desta atividade
 
