@@ -1,0 +1,8 @@
+# ninja log v5
+0	385	6506642375293406	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/Obj/startup_TM4C1294.o	4733c3d0d87674d6
+389	731	6506642378573894	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/Obj/fsm_state.o	9ffeccc0d5c64b8c
+335	748	6506642378573894	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/Obj/driverleds.o	b8c9ca3ddf68017b
+744	845	6506642379823604	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/Obj/system_TM4C1294_TW.o	f0997567e5cba4cf
+857	1288	6506642384042412	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/Exe/fsm_state.out	85c58e99357a7071
+5	253	6506683700551728	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/Obj/fsm_state.o	9ffeccc0d5c64b8c
+260	371	6506683701801437	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/Exe/fsm_state.out	85c58e99357a7071

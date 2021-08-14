@@ -1,0 +1,15 @@
+# ninja log v5
+31	538	6506639010000000	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/system_TM4C1294_TW.xcl	40695085d57fd24d
+1	550	6506639010000000	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.xcl	c4fe24c3ecb102aa
+548	660	6506639010000000	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/driverleds.xcl	919120b662b27410
+559	950	6506639016217521	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbi	a96d8f0fae9905f5
+668	961	6506639016373727	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/driverleds.pbi	930fdfab2f68c843
+956	1085	6506639017623426	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/system_TM4C1294_TW.pbi	715e93f5dd1be910
+1090	1200	6506639018716930	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbd	2a05f98d8efcbf7
+1204	2545	6506639031995083	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbw	205563db6f42b058
+2	56	6506642385656198	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbi	a96d8f0fae9905f5
+60	96	6506642386058077	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbd	2a05f98d8efcbf7
+103	667	6506642391554608	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbw	205563db6f42b058
+2	232	6506683733048196	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbi	a96d8f0fae9905f5
+1	38	6506683783970876	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbd	2a05f98d8efcbf7
+45	633	6506683789698850	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_state/Debug/BrowseInfo/fsm_state.pbw	205563db6f42b058

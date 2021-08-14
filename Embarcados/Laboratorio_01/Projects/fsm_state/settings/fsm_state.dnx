@@ -1,31 +1,5 @@
 <?xml version="1.0"?>
 <settings>
-    <LmiFtdiDriver>
-        <LMIFTDIserialNo>0F00DF3A</LMIFTDIserialNo>
-        <LMIFTDIfoundProbes />
-        <LmiFtdiResetStyle>0</LmiFtdiResetStyle>
-        <LmiFtdiResetStrategy>0</LmiFtdiResetStrategy>
-        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
-        <CStepIntDis>_ 0</CStepIntDis>
-    </LmiFtdiDriver>
-    <PlDriver>
-        <FirstRun>0</FirstRun>
-        <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\arm\CONFIG\debugger\TexasInstruments\TM4C1294NCPDT.ddf</MemConfigValue>
-    </PlDriver>
-    <DebugChecksum>
-        <Checksum>1410069526</Checksum>
-    </DebugChecksum>
-    <Exceptions>
-        <StopOnUncaught>_ 0</StopOnUncaught>
-        <StopOnThrow>_ 0</StopOnThrow>
-    </Exceptions>
-    <Disassembly>
-        <MixedMode>1</MixedMode>
-    </Disassembly>
-    <Trace1>
-        <Enabled>0</Enabled>
-        <ShowSource>1</ShowSource>
-    </Trace1>
     <Stack>
         <FillEnabled>0</FillEnabled>
         <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
@@ -37,12 +11,38 @@
         <LimitSize>0</LimitSize>
         <ByteLimit>50</ByteLimit>
     </Stack>
-    <CallStack>
-        <ShowArgs>0</ShowArgs>
-    </CallStack>
+    <PlDriver>
+        <FirstRun>0</FirstRun>
+        <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\arm\CONFIG\debugger\TexasInstruments\TM4C1294NCPDT.ddf</MemConfigValue>
+    </PlDriver>
     <ArmDriver>
         <EnableCache>0</EnableCache>
     </ArmDriver>
+    <LmiFtdiDriver>
+        <LMIFTDIserialNo>0F00DF3A</LMIFTDIserialNo>
+        <LMIFTDIfoundProbes />
+        <LmiFtdiResetStyle>0</LmiFtdiResetStyle>
+        <LmiFtdiResetStrategy>0</LmiFtdiResetStrategy>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+        <CStepIntDis>_ 0</CStepIntDis>
+    </LmiFtdiDriver>
+    <DebugChecksum>
+        <Checksum>3853602992</Checksum>
+    </DebugChecksum>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Trace1>
+        <Enabled>0</Enabled>
+        <ShowSource>1</ShowSource>
+    </Trace1>
     <Trace2>
         <Enabled>0</Enabled>
         <ShowSource>0</ShowSource>
@@ -66,12 +66,10 @@
         <mode>0</mode>
     </DisassembleMode>
     <Breakpoints2>
-        <Bp0>_ 1 "EMUL_CODE" "0x988" 0 0 1 "" 0 "" 0</Bp0>
-        <Count>1</Count>
+        <Count>0</Count>
     </Breakpoints2>
     <Aliases>
-        <A0>_ "C:\Jenkins\workspace\TivaWare-Git-Release\DriverLib\build\DriverLib.test\driverlib\gpio.c" ""</A0>
-        <Count>1</Count>
+        <Count>0</Count>
         <SuppressDialog>0</SuppressDialog>
     </Aliases>
 </settings>
