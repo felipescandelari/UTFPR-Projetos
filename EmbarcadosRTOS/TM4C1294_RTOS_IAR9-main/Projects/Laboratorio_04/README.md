@@ -31,9 +31,9 @@ Conforme foi solicitado no exercício, o arquivo RTX_Config.h foi localizado na 
 As seguintes informações sobre suas configurações foram requisitadas para: OS_TICK_FREQ, OS_THREAD_NUM e OS_THREAD_DEF_STACK_NUM.
 Estes foram os valores encontrados:
 
-– OS_TICK_FREQ = 1000
-– OS_THREAD_NUM = 2
-– OS_THREAD_DEF_STACK_NUM = 2
+- [x] OS_TICK_FREQ = 1000.
+- [x] OS_THREAD_NUM = 2.
+- [x] OS_THREAD_DEF_STACK_NUM = 2.
 
 Como pode-se ver nas figuras a seguir:
 
