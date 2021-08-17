@@ -1,0 +1,16 @@
+# ninja log v5
+2	193	6507818440000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/RTX_Config.xcl	f9b79e6df3506c47
+6	232	6507818440000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/driverleds.xcl	418beeb737897b41
+241	387	6507818443848683	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/RTX_Config.pbi	41ac0ac89125ee80
+202	433	6507818440000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.xcl	97f5717e0a3783fd
+390	622	6507818440000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.xcl	af682e71a8fcd6ac
+440	672	6507818440000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/rtx_lib.xcl	c5edf62001e56e43
+657	766	6507818447648528	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.pbi	713b493d77b49519
+682	833	6507818448316738	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/rtx_lib.pbi	59ee21bd60a9747c
+770	842	6507818448386552	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/driverleds.pbi	2e8ec66c9e98b63e
+846	871	6507818448705694	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky_part0.pbi	7d16a7c6a9bd3e96
+876	910	6507818449094651	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky_part1.pbi	90401e0ceece86bf
+836	972	6507818449703020	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.pbi	41797fd412cb5dc7
+976	1006	6507818450052086	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky_part2.pbi	852699310f92218b
+1011	1053	6507818450520843	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.pbd	167c2f0fe6829e51
+1059	2048	6507818460150185	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.pbw	d6d75dcb0a30a069

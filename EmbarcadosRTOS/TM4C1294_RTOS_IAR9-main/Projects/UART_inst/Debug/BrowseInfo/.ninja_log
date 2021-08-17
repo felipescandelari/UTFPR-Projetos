@@ -1,0 +1,16 @@
+# ninja log v5
+7	180	6507806390000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/system_TM4C1294_TW.xcl	7112836eb83ed058
+1	198	6507806390000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/rtx_lib.xcl	7c4c529410a91833
+194	338	6507806400000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/RTX_Config.xcl	faa5f1f7e31003ca
+208	375	6507806401914809	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/rtx_lib.pbi	8a51896fa841494c
+353	490	6507806400000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.xcl	548d5b8e0362c88c
+378	552	6507806403700025	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/system_TM4C1294_TW.pbi	67d544093d4c9915
+505	622	6507806404408141	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbi	d8cdebe74ea090b1
+556	654	6507806404717315	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/RTX_Config.pbi	f709c5662989de65
+657	703	6507806405136187	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part0.pbi	9a03cfb9cb0264
+707	767	6507806405864248	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part1.pbi	373ab4bed73039b6
+625	779	6507806400000000	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/uartstdio.xcl	91385b4cb5ddfa31
+799	926	6507806407440035	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/uartstdio.pbi	5323a4912afb9cd8
+929	953	6507806407729260	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part2.pbi	31061905f475aa18
+957	1033	6507806408517158	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbd	ef57cc22ea61045d
+1037	2322	6507806421043667	C:/Users/felipe/Desktop/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbw	ca78a0c00745f3d1
