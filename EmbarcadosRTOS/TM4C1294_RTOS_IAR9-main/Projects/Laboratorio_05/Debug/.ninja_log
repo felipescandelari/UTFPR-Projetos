@@ -1,0 +1,13 @@
+# ninja log v5
+590	708	6516086183889880	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Exe/prodcons.out	60d178d1c74c8a8d
+1	23	6516086177015942	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Obj/startup_TM4C1294.o	ea49d1351bdd109d
+376	519	6516086181858718	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Obj/RTX_Config.o	5f173e2c48024584
+28	144	6516086178109498	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Obj/prodcons.o	d737014be9bc0193
+247	425	6516086180921408	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Obj/system_TM4C1294_TW.o	83d7d9d5b1f2232a
+590	708	6516086183889880	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/List/prodcons.map	60d178d1c74c8a8d
+5	234	6516086178890567	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Obj/driverleds.o	6936d48a39630ca8
+440	574	6516086182483594	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Obj/rtx_lib.o	232a224c4f9e4db7
+727	736	6516086184202027	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Exe/prodcons.bin	d9e14a34ff87533d
+156	364	6516086180296541	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Obj/driverbuttons.o	860d6070cb51f135
+2	101	6516086204700046	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Exe/prodcons.out	4801f2928ca6c482
+121	130	6516086205100875	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/Laboratorio_05/ewarm/Exe/prodcons.bin	d9e14a34ff87533d

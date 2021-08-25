@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.general.xcl" --backend -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.general.xcl" --backend -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\UART_inst\settings\UART_inst.Debug.driver.xcl" 
 
 @echo off 
 :end

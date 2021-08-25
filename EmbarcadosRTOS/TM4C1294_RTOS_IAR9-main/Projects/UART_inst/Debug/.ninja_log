@@ -1,0 +1,9 @@
+# ninja log v5
+0	37	6514848846739582	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/startup_TM4C1294.o	8e36b4d0087cad12
+4	157	6514848847846618	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/rtx_lib.o	96a67f525fe9b73f
+41	179	6514848847806729	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/RTX_Config.o	9725cfa6f977a779
+175	341	6514848849661761	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/system_TM4C1294_TW.o	6036ce06eafe775
+191	486	6514848851157770	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/uartstdio.o	ed47d2290d73b080
+354	551	6514848851835960	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/UART_inst.o	47f3ba978b8f1b5e
+569	854	6514848854766056	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.out	bb1cf1ef732041f1
+868	947	6514848855873083	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.bin	23f3e3e9ed5e67a
