@@ -12843,13 +12843,27 @@
     "scope": null
   },
   {
+    "ID": "c:@estado",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "estado",
+    "location": {
+      "column": "5",
+      "line": "11",
+      "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\fsm_state\\src\\fsm_state.c"
+    },
+    "name": "estado",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
     "ID": "c:@Evento",
     "What": "Variable",
     "defdec": "Def",
     "display": "Evento",
     "location": {
-      "column": "14",
-      "line": "10",
+      "column": "18",
+      "line": "12",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\fsm_state\\src\\fsm_state.c"
     },
     "name": "Evento",
@@ -12863,7 +12877,7 @@
     "display": "void SysTick_Handler(void)",
     "location": {
       "column": "6",
-      "line": "12",
+      "line": "14",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\fsm_state\\src\\fsm_state.c"
     },
     "name": "SysTick_Handler",
@@ -12877,24 +12891,10 @@
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "16",
+      "line": "18",
       "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\fsm_state\\src\\fsm_state.c"
     },
     "name": "main",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:fsm_state.c@372@F@main@Estado",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "Estado",
-    "location": {
-      "column": "14",
-      "line": "17",
-      "path": "C:\\Users\\felipe\\Desktop\\Embarcados\\UTFPR-Projetos\\Embarcados\\Laboratorio_01\\Projects\\fsm_state\\src\\fsm_state.c"
-    },
-    "name": "Estado",
     "origin": "project_file",
     "scope": null
   },

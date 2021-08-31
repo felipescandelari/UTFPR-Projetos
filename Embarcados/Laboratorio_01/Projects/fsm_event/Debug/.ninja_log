@@ -1,0 +1,6 @@
+# ninja log v5
+1	44	6521466358717847	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_event/Debug/Obj/startup_TM4C1294.o	abdfa2175dad8012
+48	248	6521466360602809	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_event/Debug/Obj/fsm_event.o	2f9caa339f391d06
+6	261	6521466360602809	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_event/Debug/Obj/driverleds.o	8dd7f4b320581967
+257	386	6521466362068902	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_event/Debug/Obj/system_TM4C1294_TW.o	aeb0572cbde7a387
+399	482	6521466363036282	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/Embarcados/Laboratorio_01/Projects/fsm_event/Debug/Exe/fsm_event.out	9c74730fba17fbc3

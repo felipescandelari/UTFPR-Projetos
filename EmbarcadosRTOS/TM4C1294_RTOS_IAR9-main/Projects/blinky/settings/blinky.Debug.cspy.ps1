@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.general.xcl" --backend -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.general.xcl" --backend -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\felipe\Desktop\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0_2\common\bin\cspybat" -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\felipe\Desktop\Embarcados\UTFPR-Projetos\EmbarcadosRTOS\TM4C1294_RTOS_IAR9-main\Projects\blinky\settings\blinky.Debug.driver.xcl" 
 }
