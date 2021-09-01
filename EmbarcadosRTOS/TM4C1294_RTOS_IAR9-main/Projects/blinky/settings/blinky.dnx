@@ -17,6 +17,10 @@
     <ArmDriver>
         <EnableCache>0</EnableCache>
     </ArmDriver>
+    <LmiFtdiDriver>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+        <CStepIntDis>_ 0</CStepIntDis>
+    </LmiFtdiDriver>
     <DisassembleMode>
         <mode>0</mode>
     </DisassembleMode>
@@ -27,8 +31,4 @@
         <Count>0</Count>
         <SuppressDialog>0</SuppressDialog>
     </Aliases>
-    <LmiFtdiDriver>
-        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
-        <CStepIntDis>_ 0</CStepIntDis>
-    </LmiFtdiDriver>
 </settings>

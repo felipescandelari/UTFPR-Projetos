@@ -5,17 +5,17 @@
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\Debug\Obj\system_ARMCM4.o</file>
             <file>$PROJ_DIR$\src\system_ARMCM4.c</file>
             <file>$PROJ_DIR$\Debug\Obj\c_code.o</file>
             <file>$PROJ_DIR$\src\c_code.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_ARMCM4.o</file>
         </outputs>
         <file>
             <name>$PROJ_DIR$\src\system_ARMCM4.c</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 0</file>
+                    <file> 3</file>
                 </tool>
             </outputs>
         </file>
@@ -24,7 +24,7 @@
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 2</file>
+                    <file> 1</file>
                 </tool>
             </outputs>
         </file>

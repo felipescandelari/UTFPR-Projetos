@@ -7,6 +7,9 @@
         <path>$WS_DIR$\TivaWare_C_Series-2.1.4.178\driverlib\driverlib.ewp</path>
     </project>
     <project>
+        <path>$WS_DIR$\Projects\elevadores\elevadores.ewp</path>
+    </project>
+    <project>
         <path>$WS_DIR$\TivaWare_C_Series-2.1.4.178\grlib\grlib.ewp</path>
     </project>
     <project>
