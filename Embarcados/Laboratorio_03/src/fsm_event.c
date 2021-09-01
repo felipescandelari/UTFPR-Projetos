@@ -1,4 +1,4 @@
-// Lab 03 - corrigido
+// Lab 03 - corrigido - reentrega
 #include <stdint.h>
 #include <stdbool.h>
 // includes da biblioteca driverlib
@@ -6,7 +6,7 @@
 #include "driverleds.h" // Projects/drivers
 
 // MEF com apenas 2 estados e 1 evento temporal que alterna entre eles
-// Seleção por evento
+// SeleÃ§Ã£o por evento
 
 int estado = 0;
 volatile uint8_t Evento = 0;
@@ -33,22 +33,22 @@ void main(void){
           LEDOff(LED1); LEDOff(LED2); LEDOn(LED3);
           break;
         case 2:
-          LEDOff(LED1); LEDOn(LED2); LEDOff(LED3);
-          break;
-        case 3:
           LEDOff(LED1); LEDOn(LED2); LEDOn(LED3);
           break;
+        case 3:
+          LEDOff(LED1); LEDOn(LED2); LEDOff(LED3);
+          break;
         case 4:
-          LEDOn(LED1); LEDOff(LED2); LEDOff(LED3);
-          break;
-        case 5:
-          LEDOn(LED1); LEDOff(LED2); LEDOn(LED3);
-          break;
-        case 6:
           LEDOn(LED1); LEDOn(LED2); LEDOff(LED3);
           break;
-        case 7:
+        case 5:
           LEDOn(LED1); LEDOn(LED2); LEDOn(LED3);
+          break;
+        case 6:
+          LEDOn(LED1); LEDOff(LED2); LEDOn(LED3);
+          break;
+        case 7:
+          LEDOn(LED1); LEDOff(LED2); LEDOff(LED3);
           break;
       } //switch
       estado ++;

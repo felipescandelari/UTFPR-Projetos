@@ -92,3 +92,12 @@
 816	1344	6521668490059949	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/UART_inst.o	e2775c7a77188223
 1360	1519	6521668491705533	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Exe/UART_inst.out	9d6b571f34f93965
 1536	1551	6521668492264047	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Exe/elevadores.bin	1c94d49385ccff3b
+3	501	6522164411375690	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/startup_TM4C1294.o	c64d2447cbbc99bd
+295	1206	6522164419480201	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/RTX_Config.o	69162b4d7924c38b
+508	1289	6522164420088567	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/driverleds.o	b3e9c707761f82fc
+1218	1594	6522164423030694	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/rtx_lib.o	875138bc7b7ba61e
+1302	1714	6522164424496775	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/system_TM4C1294_TW.o	641bb80f3d0a99d7
+1606	2150	6522164428875986	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/uartstdio.o	30e0c35a191146a1
+1726	2358	6522164431086912	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Obj/UART_inst.o	e2775c7a77188223
+2375	2884	6522164436379449	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Exe/UART_inst.out	9d6b571f34f93965
+2901	3006	6522164437805638	C:/Users/felipe/Desktop/Embarcados/UTFPR-Projetos/EmbarcadosRTOS/TM4C1294_RTOS_IAR9-main/Projects/elevadores/ewarm/Exe/elevadores.bin	1c94d49385ccff3b
